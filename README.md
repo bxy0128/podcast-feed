@@ -11,3 +11,9 @@ Only RSS output is published here; configuration and captured data stay private.
 | 鲶鱼夜话 | [nianyuyehua/feed.xml](nianyuyehua/feed.xml) |
 
 Website: https://bxy0128.github.io/podcast-feed/
+
+## Custom covers
+
+Put a JPG, PNG, or WebP image next to a podcast's `feed.xml`. An image named
+after its folder (for example `heisha/heisha.jpg`) is preferred. Public sync
+uses that image as the RSS channel cover automatically.
