@@ -1,16 +1,17 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
     <channel>
         <title>黑鲨诡话</title>
         <link>https://www.lizhi.fm/user/2592072927146685996</link>
         <description>聊一些鬼言鬼语。欢迎大家踊跃投稿。每月四更。黑鲨诡话采用脱口秀的方式来讲发生在你我身边的恐怖故事，让你更有代入感！但是，没有一惊一乍的特效，可以伴你入睡，陪伴你上下班的时光！</description>
         <language>zh-cn</language>
-        <lastBuildDate>Fri, 13 Nov 2026 21:32:13 +0800</lastBuildDate>
+        <lastBuildDate>Sat, 14 Nov 2026 12:58:01 +0800</lastBuildDate>
         <generator>lizhi-pipeline/2.0.0</generator>
         <itunes:summary>聊一些鬼言鬼语。欢迎大家踊跃投稿。每月四更。黑鲨诡话采用脱口秀的方式来讲发生在你我身边的恐怖故事，让你更有代入感！但是，没有一惊一乍的特效，可以伴你入睡，陪伴你上下班的时光！</itunes:summary>
         <itunes:image href="https://bxy0128.github.io/podcast-feed/heisha/heisha.jpg" />
         <itunes:category text="Society &amp; Culture" />
         <itunes:explicit>no</itunes:explicit>
+        <atom:link href="https://bxy0128.github.io/podcast-feed/heisha/feed.xml" rel="self" type="application/rss+xml" />
         <item>
             <title>独家【网友的诡异经历】第154期 父亲头七回来在门口发出恐怖大笑</title>
             <guid isPermaLink="false">3239476637349485574</guid>

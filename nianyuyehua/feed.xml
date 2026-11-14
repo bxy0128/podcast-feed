@@ -1,17 +1,18 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
     <channel>
         <title>鲶鱼夜话</title>
         <link>https://www.lizhi.fm/user/5231279396443178540</link>
         <description>聊一些奇事、怪事、邪事</description>
         <language>zh-cn</language>
-        <lastBuildDate>Fri, 13 Nov 2026 21:32:20 +0800</lastBuildDate>
+        <lastBuildDate>Sat, 14 Nov 2026 12:58:07 +0800</lastBuildDate>
         <generator>lizhi-pipeline/2.0.0</generator>
         <itunes:author>鲶鱼夜话</itunes:author>
         <itunes:summary>聊一些奇事、怪事、邪事</itunes:summary>
         <itunes:image href="https://cdnimg101.gzlzfm.com/user/2023/11/07/3041129784138958889.jpg" />
         <itunes:category text="Society &amp; Culture" />
         <itunes:explicit>no</itunes:explicit>
+        <atom:link href="https://bxy0128.github.io/podcast-feed/nianyuyehua/feed.xml" rel="self" type="application/rss+xml" />
         <item>
             <title>Ep296.“南京都市传说，秦淮河上桥的诡谲谜案”“两个自己，一个活着，一个在等</title>
             <guid isPermaLink="false">3227508968678553094</guid>

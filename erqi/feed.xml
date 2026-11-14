@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
     <channel>
         <title>二奇物语</title>
         <link>https://www.lizhi.fm/user/5253742350296267820</link>
@@ -7,13 +7,14 @@
 如果你也有想要分享的故事，欢迎投稿哟
 如无意外，每周三四六更新节目。不定期加更。</description>
         <language>zh-cn</language>
-        <lastBuildDate>Fri, 13 Nov 2026 21:32:27 +0800</lastBuildDate>
+        <lastBuildDate>Sat, 14 Nov 2026 12:58:14 +0800</lastBuildDate>
         <generator>lizhi-pipeline/2.0.0</generator>
         <itunes:author>二奇物语</itunes:author>
         <itunes:summary>您的关注对我们十分重要！gorillaz0130 没事儿可以常联系 如果你也有想要分享的故事，欢迎投稿哟 如无意外，每周三四六更新节目。不定期加更。</itunes:summary>
         <itunes:image href="https://cdnimg101.gzlzfm.com/user/2023/11/29/3045185929778332674.jpg" />
         <itunes:category text="Society &amp; Culture" />
         <itunes:explicit>no</itunes:explicit>
+        <atom:link href="https://bxy0128.github.io/podcast-feed/erqi/feed.xml" rel="self" type="application/rss+xml" />
         <item>
             <title>【特辑】贰奇物语灵异特辑—048</title>
             <guid isPermaLink="false">3243136587596009990</guid>
