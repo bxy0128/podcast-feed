@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<opml version="2.0">
+  <head>
+    <title>Xiaoyuzhou Podcast Collection</title>
+    <dateCreated>2026-08-30T16:01:22.557Z</dateCreated>
+  </head>
+  <body>
+    <outline title="二奇物语" text="您的关注对我们十分重要！gorillaz0130 没事儿可以常联系。如果你也有想要分享的故事，欢迎投稿哟。如无意外，每周三四六更新节目，不定期加更。" xmlUrl="https://bxy0128.github.io/podcast-feed/erqi/feed.xml" type="rss"/>
+    <outline title="放牛儿播客 FUNK NEWS" text="放牛儿播客 FUNK NEWS成立于2019。包罗人间悲喜，探秘阴阳之间。下属系列【放牛儿会】【诡言诡语】【爱听不听】【爱看不看】【怪奇档案】【FUNK NEWS】【见闻录】【怪诞奇谭】【残酷物语】" xmlUrl="https://bxy0128.github.io/podcast-feed/funknews/feed.xml" type="rss"/>
+    <outline title="黑鲨诡话" text="聊一些鬼言鬼语。欢迎大家踊跃投稿。每月四更。黑鲨诡话采用脱口秀的方式来讲发生在你我身边的恐怖故事，让你更有代入感！但是，没有一惊一乍的特效，可以伴你入睡，陪伴你上下班的时光！" xmlUrl="https://bxy0128.github.io/podcast-feed/heisha/feed.xml" type="rss"/>
+    <outline title="鲶鱼夜话" text="鲶鱼志旗下灵异故事节目，我们聊一些适合在夜里说的奇事、邪事、怪事。演绎怪诞，不思辨。苟进科学，广结善缘。投稿合作v：catfishtalk、catfishtalk01（这是缪缪）" xmlUrl="https://bxy0128.github.io/podcast-feed/nianyuyehua/feed.xml" type="rss"/>
+  </body>
+</opml>
